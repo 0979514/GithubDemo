@@ -1,5 +1,5 @@
 def StartScherm():
-  pass
+  print('yeah')
 def LevelOne():
   pass
 def LevelTwo():
